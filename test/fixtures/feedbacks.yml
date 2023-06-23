@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  feedback_id: 1
+  feedback_message: MyString
+  feedback_person: MyString
+  feedback_desg: MyString
+
+two:
+  feedback_id: 1
+  feedback_message: MyString
+  feedback_person: MyString
+  feedback_desg: MyString

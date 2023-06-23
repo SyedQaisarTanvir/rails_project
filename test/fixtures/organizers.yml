@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organizer_id: 1
+  organizer_name: MyString
+  organizer_email: MyString
+  organizer_phone: MyString
+
+two:
+  organizer_id: 1
+  organizer_name: MyString
+  organizer_email: MyString
+  organizer_phone: MyString
